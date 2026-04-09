@@ -1,9 +1,6 @@
 # Stockr
 A Store Item Tracker
 
-# stockr
-### A Store Item Tracker
-
 Stockr is a personal inventory management system designed for small stores. 
 It allows management to track items, monitor sales, and manage orders, while 
 giving customers a read only view of current inventory.
